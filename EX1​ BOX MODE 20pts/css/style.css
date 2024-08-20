@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.profile-card{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 40px;
+    padding: 30px;
+    
+   
+}
+img{
+
+    border: solid royalblue;
+    border-radius: 90%;
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+    
+}
+.B{
+    background-color: palevioletred;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;    
+    margin: 100px;
+    
+    
+
+    /* margin: 100px; */
+/* TODO write your style */
